@@ -1,0 +1,20 @@
+---
+title: "Threds Inc.: From Shipping to Self-Created Engineering Role"
+---
+
+I first joined Threds Inc. in Knoxville, Tennessee, simply looking for a day job. A couple of my friends already worked there—one in sales, another in shipping and receiving—so I followed their lead and took a position in the shipping department. My role was straightforward: pulling fulfillment orders, packing boxes, and navigating the hot-and-cold extremes of a warehouse environment. The pay wasn’t great, the work was hard, but it was honest, and it gave me a front-row seat to a company with a fascinating story.
+
+Threds had started back in 1994 selling blue jeans out of a Jeep Cherokee and had since grown into a multimillion-dollar print shop. By the time I arrived, they were producing T-shirts, embroidery, and handling fulfillment for national brands like Mercury boat motors, Mellow Mushroom, and Salsarita’s. They managed drop shipping, ran order fulfillment for various e-commerce websites, and even handled local deliveries around Knoxville. It was a small business at heart, but one with real reach.
+
+Not long after I started, I noticed something that no one else seemed eager to tackle: the company’s expensive machinery wasn’t being maintained properly. There were roughly 25 presses and specialized machines, not including the embroidery equipment, and many of them were collecting dust—literally. Air leaks hissed through the pneumatic lines, oil mist clung to filters, and the massive Ingersoll Rand air compressor needed attention. The dryers that cured the screen-printed shirts had worn elements, and the entire operation was running under strain.
+
+Rather than just watch things deteriorate, I stepped up. I informally created a new role for myself: Assistant Chief Engineer. I talked to the procurement manager, got an extra mechanic’s shirt, then had the embroidery manager stitch a maintenance logo and my name onto it. That simple act made it official in my mind—I had a uniform, and I had a mission. I began servicing the machines on weekends when production was shut down. I cleaned filters, replaced dryer elements, fixed leaks, and kept the presses in top shape. It was satisfying, hands-on work that tapped into my natural mechanical aptitude.
+
+In addition to maintenance, I often served as a delivery driver when local orders needed to reach customers. That gave me an unexpected role as a customer-facing representative of the company. Driving around Knoxville, I got to know the community even better and helped maintain strong relationships with our clients.
+
+While my primary responsibilities were hands-on, I also observed the inner workings of the business. Threds used a FileMaker Pro database for fulfillment, and I learned how the different departments—design, sales, shipping, and embroidery—worked together. It was my first real exposure to how a small but growing business integrates its operations. I even got to see the company expand, adding a new warehouse and another building to their campus, and I pitched in on projects that came with that growth.
+
+Eventually, I outgrew the role. Threds was a small company, and while I valued the experience and the friends I made, they simply couldn’t offer me the pay or career trajectory I needed. I gave my two weeks’ notice and left on good terms, proud of the work I had accomplished and grateful for the lessons I had learned.
+
+Looking back, my time at Threds Inc. was more than just a day job. It was a formative experience that let me take initiative, claim responsibility, and develop skills in maintenance, logistics, and small business operations. I walked away with confidence in my abilities, a sense of accomplishment, and deep respect for the people and community that built that company from a Jeep full of blue jeans into something far larger.
+

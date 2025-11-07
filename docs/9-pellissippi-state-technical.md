@@ -1,0 +1,18 @@
+---
+title: "Autobiographical Account: My Journey at Pellissippi State"
+---
+
+There was a pivotal moment in my life when the path toward self‑improvement and upward mobility became clear. I was living in Knoxville, Tennessee, working as a maintenance technician for HomeSource of East Tennessee. My days were spent driving my maintenance truck from property to property, taking care of residential units, while juggling the responsibilities of family life—one son living in North Carolina, and two stepchildren growing up in Knoxville. Life was busy and often exhausting, but I had the deep desire to build a better future, both for myself and for my family.
+
+It was during one of those long workdays on the road that I first saw the billboard for the Tennessee Reconnect program. The program was a grant designed for adults like me—people who hadn’t had consistent access to higher education due to work, finances, or family obligations, but who were ready to return to school. The promise of fully covered tuition for an associate degree or certificate was exactly the opportunity I had been waiting for.
+
+I enrolled eagerly, transferring all the credits I had previously earned from the University of Tennessee and Ozarks Technical Community College. This allowed me to jump directly into Pellissippi State Community College’s Civil Engineering Technology program. I pushed myself to make the most of the opportunity, also pursuing two certificates—Construction Management and Sustainability and Design—to maximize the benefit of the grant.
+
+Balancing school, work, and family was far from easy. During this period, I continued my role as a maintenance technician, working across properties that included Cherokee Mills. I also pursued project management opportunities, facing a few rejections from companies like Green Home and McCracken Construction before finally landing a position as a Project Manager for ForeMost Construction. For a stretch of six months, I even moonlighted as a Starbucks barista to keep everything afloat. All the while, I was splitting my time between caring for a child out of state and raising my stepchildren—life felt like an endless juggling act. 
+
+Through relentless effort, I not only completed my degree but graduated Summa Cum Laude with a perfect 4.0 GPA. I could never have done it without the support of my loving wife, Sarah, who encouraged me through the long nights of studying and the demanding days of work.
+
+At Pellissippi, I immersed myself in the world of civil engineering and construction technologies. I learned surveying, AutoCAD, Revit, and Autodesk Civil 3D, and gained hands‑on experience with materials testing, estimating, HVAC, and electrical design. Crucially, I also developed a deep understanding of sustainable construction practices and low‑carbon building design, exploring topics like Project Drawdown and the critical impact of the construction industry on global carbon footprints. I came to appreciate how innovative design and the careful selection of materials could reduce emissions and make the built environment part of the solution for a greener future.
+
+Looking back, my time at Pellissippi State was not just about earning a degree—it was about proving to myself that I could rise above my circumstances. It taught me resilience, resourcefulness, and the importance of seizing opportunities no matter how late they may seem to arrive. This chapter of my life reminds me that with determination, support, and access to the right resources, anyone can pursue equity, self‑improvement, and upward mobility—and reshape their future for the better.
+
