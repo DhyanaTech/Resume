@@ -5,8 +5,8 @@ import { ExternalLink, Code } from 'lucide-react';
 import { PORTFOLIO_PROJECTS } from '@/lib/constants';
 
 export default function FeaturedProjectsSection() {
-  // Show only the first 2 projects (MyTinyCEO and 4Cast)
-  const featuredProjects = PORTFOLIO_PROJECTS.slice(0, 2);
+  // Show all 3 projects (DhyanaTech, DhyanaPM, DhyanaCFO)
+  const featuredProjects = PORTFOLIO_PROJECTS.slice(0, 3);
 
   return (
     <section id="projects" className="relative flex items-center justify-center py-64 lg:py-80 px-6 sm:px-8 md:px-12 lg:px-16 bg-cream">
@@ -26,7 +26,7 @@ export default function FeaturedProjectsSection() {
           </p>
         </motion.div>
 
-        <div className="grid md:grid-cols-2 gap-8 mb-40">
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8 mb-40">
           {featuredProjects.map((project, index) => (
             <motion.a
               key={project.name}
@@ -38,16 +38,16 @@ export default function FeaturedProjectsSection() {
               viewport={{ once: true }}
               transition={{ duration: 0.6, delay: index * 0.2 }}
               whileHover={{ scale: 1.03, y: -5 }}
-              className="group relative bg-gradient-to-br from-denim to-bamboo p-8 rounded-2xl shadow-xl hover:shadow-2xl transition-all overflow-hidden focus-visible:ring-4 focus-visible:ring-sunflower focus-visible:outline-none"
+              className="group relative bg-gradient-to-br from-denim to-bamboo p-10 rounded-2xl shadow-xl hover:shadow-2xl transition-all overflow-hidden focus-visible:ring-4 focus-visible:ring-sunflower focus-visible:outline-none"
             >
               {/* Content */}
               <div className="relative z-10 text-center">
 
-                <h3 className="text-2xl font-bold text-white mb-3">
+                <h3 className="text-2xl font-bold text-white mb-4">
                   {project.name}
                 </h3>
 
-                <p className="text-white/90 mb-6 leading-relaxed">
+                <p className="text-white/90 mb-8 leading-relaxed">
                   {project.description}
                 </p>
 

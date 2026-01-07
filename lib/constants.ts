@@ -8,18 +8,25 @@ export const CONTACT_INFO: ContactInfo = {
 
 export const PORTFOLIO_PROJECTS: PortfolioProject[] = [
   {
-    name: 'MyTinyCEO',
-    url: 'https://www.mytinyceo.com',
+    name: 'DhyanaTech',
+    url: 'https://www.dhyanatech.com',
     description:
-      'Small-business management web app featuring financial dashboards and task automation',
-    technologies: ['JavaScript', 'SQL', 'Web App'],
+      'Parent company and ecosystem of mindful business software, founded to reduce friction and noise in work environments',
+    technologies: ['Founder', 'Full Stack', 'Product Strategy'],
   },
   {
-    name: '4Cast Concrete Solutions',
-    url: 'https://www.4castconcrete.com',
+    name: 'DhyanaPM',
+    url: 'https://pm.dhyanatech.app',
     description:
-      'Web-based quoting, design-approval, and production-tracking platform for precast manufacturers',
-    technologies: ['Full Stack', 'Database Design', 'B2B Platform'],
+      'Project management application emphasizing clarity over complexity for focused, mindful work',
+    technologies: ['Next.js', 'TypeScript', 'Web App'],
+  },
+  {
+    name: 'DhyanaCFO',
+    url: 'https://cfo.dhyanatech.app',
+    description:
+      'Financial management tool for small businesses with intuitive dashboards and stress-free workflows',
+    technologies: ['Full Stack', 'Finance', 'SaaS'],
   },
 ];
 

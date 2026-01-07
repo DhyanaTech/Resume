@@ -80,11 +80,11 @@ function TimelineCard({ entry, index }: { entry: TimelineEntry; index: number })
         <motion.div
           whileHover={{ scale: 1.02 }}
           transition={{ duration: 0.2 }}
-          className="bg-white p-6 sm:p-8 rounded-xl shadow-lg border border-denim/10 hover:shadow-xl transition-shadow focus-visible:ring-2 focus-visible:ring-denim focus-visible:outline-none"
+          className="bg-white p-8 sm:p-10 rounded-xl shadow-lg border border-denim/10 hover:shadow-xl transition-shadow focus-visible:ring-2 focus-visible:ring-denim focus-visible:outline-none"
           tabIndex={0}
         >
           {/* Header */}
-          <div className="mb-6">
+          <div className="mb-8">
             {entry.date && (
               <span className="inline-block px-3 py-1 bg-sunflower/20 text-denim text-sm font-medium rounded-full mb-3">
                 {entry.date}
@@ -104,7 +104,7 @@ function TimelineCard({ entry, index }: { entry: TimelineEntry; index: number })
 
           {/* Description */}
           {entry.description && (
-            <p className="text-foreground/80 mb-6">{entry.description}</p>
+            <p className="text-foreground/80 mb-8">{entry.description}</p>
           )}
 
           {/* Content */}
