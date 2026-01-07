@@ -5,12 +5,12 @@ Innovative Technical Solutions Manager with a proven ability to bridge technolog
 Core Competencies & Technical Skills
 Programming & Tools: JavaScript | SQL | HTML/CSS | AutoDesk Inventor | AutoCAD | Revit | Excel (Advanced) | MS ProjectTechnology & Analytics: AI-Assisted Design | Machine Learning Tools | Data Analytics | Automation Systems | CAD/BIM ModelingDomains: Web App Development | Process Automation | Business Analytics | Project Management | Systems Integration | Electrical & Technical SystemsSoft Skills: Creative Problem Solving | Attention to Detail | Leadership | Cross-Functional Collaboration | Analytical Thinking | Communication
 Professional Experience
-Founder / CTO – 4Cast Concrete Solutions LLC
+Founder / CTO – DhyanaTech Inc.
 	Sep 2025 – Present | Hickory, NC
-Build custom web and database applications for small businesses to automate quoting, approvals, and project tracking.
-Lead all full-stack development in JavaScript and SQL; implement data dashboards to improve workflow visibility and analytics.
-Design end-to-end software architecture supporting integration with ERP and production systems.
-Manage client relationships, business strategy, and technical delivery for multiple projects, including MyTinyCEO, a business-management web app.
+Founded and lead DhyanaTech Inc., an ecosystem of mindful business software designed to reduce friction and noise in work environments.
+Lead all full-stack development of DhyanaPM (project management) and DhyanaCFO (financial clarity tools) using Next.js, TypeScript, and modern web technologies.
+Design end-to-end software architecture emphasizing clarity over complexity, supporting integration with business systems.
+Manage product strategy, business development, and technical delivery with a focus on improving wellbeing and productivity for small businesses.
 Account Manager – A&D Precast
 	Sep 2024 – Oct 2025 | Hickory, NC
 Managed commercial estimating, takeoffs, and blueprint design for precast concrete manufacturing using AutoDesk Inventor.
@@ -41,8 +41,9 @@ Education
 A.A.S. Civil Engineering Technology, Pellissippi State Community College — Summa Cum LaudeCertificates in Construction Management and Sustainable Design120 + credit hours toward B.S., University of Tennessee Additional Training: AutoCAD | Revit | Civil 3D | MS Project | Surveying | Estimating | Materials Testing
 
 Portfolio & Projects
-MyTinyCEO – A small-business management web app built with JavaScript and SQL, featuring financial dashboards and task automation. www.MyTinyCEO.com
-4Cast Concrete Solutions – Web-based quoting, design-approval, and production-tracking platform for precast manufacturers. www.4CastConcrete.com
+DhyanaTech – Parent company and ecosystem of mindful business software. www.DhyanaTech.com
+DhyanaPM – Project management application emphasizing clarity over complexity. pm.dhyanatech.app
+DhyanaCFO – Financial management tool for small businesses with intuitive dashboards. cfo.dhyanatech.app
 
 Resume Website
 	www.SteveDickensResume.com

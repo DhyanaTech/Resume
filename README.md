@@ -145,8 +145,9 @@ See `docs/implementation-plan.md` for detailed development progress and changelo
 
 ## 🚀 Featured Projects
 
-- **[MyTinyCEO](https://www.mytinyceo.com)** - Small-business management web app featuring financial dashboards and task automation
-- **[4Cast Concrete Solutions](https://www.4castconcrete.com)** - Web-based quoting, design-approval, and production-tracking platform for precast manufacturers
+- **[DhyanaTech](https://www.dhyanatech.com)** - Parent company and ecosystem of mindful business software
+- **[DhyanaPM](https://pm.dhyanatech.app)** - Project management application emphasizing clarity over complexity
+- **[DhyanaCFO](https://cfo.dhyanatech.app)** - Financial management tool for small businesses with intuitive dashboards
 
 ---
 
